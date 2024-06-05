@@ -1,0 +1,11 @@
+{
+  "firstName": "Игорь",
+  "lastName": "Гром",
+  "address": "Шоссе Энтузиастов 26",
+  "metroStation": "Шоссе Энтузиастов",
+  "phone": "89223768997",
+  "rentTime": "2",
+  "deliveryDate": "01.06.2024",
+  "comment": "Игра",
+  "color": ["BLACK", "GREY"]
+}
