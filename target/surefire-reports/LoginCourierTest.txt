@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: LoginCourierTest
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.1 s - in LoginCourierTest
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.928 s - in LoginCourierTest
